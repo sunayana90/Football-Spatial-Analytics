@@ -12,15 +12,6 @@ A computer vision pipeline that detects players, classifies teams, tracks moveme
 - Maps player positions from camera view to a **top-down pitch** using homography
 - Generates a **rolling heatmap** showing player activity zones
 - Outputs a clean **top-view radar video** (no original footage, just the tactical view)
-
----
-
-## 📽️ Output
-
-| File | Description |
-|------|-------------|
-| `topview_radar.mp4` | Top-down pitch with player dots, trails, and heatmap overlay |
-
 ---
 
 ## 🚀 Quick Start (Google Colab)
